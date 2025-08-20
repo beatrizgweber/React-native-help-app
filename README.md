@@ -16,7 +16,7 @@ This project is great for learning **React Native basics** like conditional rend
 
 ---
 
-
-
-<img width="1080" height="2400" alt="Home" src="https://github.com/user-attachments/assets/d017fe59-1bc2-4a38-a67a-efeb6577faf0" />
-<img width="1080" height="2400" alt="Form" src="https://github.com/user-attachments/assets/2643019f-e944-4156-81a3-0b980473a886" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d017fe59-1bc2-4a38-a67a-efeb6577faf0" alt="Home" width="300"/>
+  <img src="https://github.com/user-attachments/assets/2643019f-e944-4156-81a3-0b980473a886" alt="Form" width="300"/>
+</p>
